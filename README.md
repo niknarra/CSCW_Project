@@ -7,6 +7,7 @@ This repository contains code to automatically generate summaries of meetings ba
 
 # Contents
 send_email.py: Main Python code
+
 meeting_trasncripts.txt: Example output from the model summarizing a meeting
 
 # About
